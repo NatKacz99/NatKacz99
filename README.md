@@ -23,7 +23,7 @@ In this app, users can add information about their life problems to receive psyc
 ![balance2](https://github.com/user-attachments/assets/6d514acd-ca5a-460d-9024-e449b3acb41c)
 ![balance3](https://github.com/user-attachments/assets/71df26e6-a08a-4a10-8024-190019aac2a2)
 
-Ta aplikacja pozwala zarejestrowanem użytkownikowi dodawać swoje przychody oraz wydatki dla konkretnej daty. Następnie, może zobaczyć bilans wybierając dany okres czasu. Sztuczna inteligencja Gemini, na podstawie bilansu, generuje podpowiedź, jak można lepiej zarządzać swoim budżetem. Dla dowolnej kategorii wydatku, użytkownik może wprowadzić miesięczny limit. Jeśli będzie próbował przekroczyć limit w danym miesiącu, poajwi się ostrzeżenie. Jeśli je zaakceptuje, wydatek zosatnie dodany pomimo wprowadzoengo limitu.
+Ta aplikacja pozwala zarejestrowanemu użytkownikowi dodawać swoje przychody oraz wydatki dla konkretnej daty. Następnie, może zobaczyć bilans wybierając dany okres czasu. Sztuczna inteligencja Gemini, na podstawie bilansu, generuje podpowiedź, jak można lepiej zarządzać swoim budżetem. Dla dowolnej kategorii wydatku, użytkownik może wprowadzić miesięczny limit. Jeśli będzie próbował przekroczyć limit w danym miesiącu, poajwi się ostrzeżenie. Jeśli je zaakceptuje, wydatek zosatnie dodany pomimo wprowadzoengo limitu.
 Link do strony: https://finanse.natalia-kaczynska.profesjonalnyprogramista.pl/. Zalecam przeglądanie strony w przeglądarce Firefox.
 
 ## Project 4: Aplikacja budżetowa (C++)
